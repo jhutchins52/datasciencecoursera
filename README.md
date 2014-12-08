@@ -17,8 +17,8 @@ This is and example link. [Usa Chair](http://www.usa-chair.com)
 
 This is a reference link to [USA Chair]
 
+This is a reference link to Markdown [Basics].
 
-
-
+[Basics]: http://daringfireball.net/projects/markdown/basics
 [USA Chair]: http://www.usa-chair.com
 
